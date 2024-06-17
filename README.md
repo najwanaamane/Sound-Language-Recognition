@@ -1,8 +1,4 @@
-# Sound-Language-Recognition
-Language Recognition from wav audio files Using GMM Models and MFCC parametrization
-Here's the updated README to reflect that the files are Jupyter notebooks (`.ipynb`) instead of Python scripts (`.py`).
 
-## README for Language Recognition Project
 
 # Language Recognition Using GMM Models
 
@@ -10,7 +6,10 @@ Here's the updated README to reflect that the files are Jupyter notebooks (`.ipy
 
 This project focuses on implementing Gaussian Mixture Models (GMM) for automatic language recognition. The objective is to develop a data processing pipeline using Python to train a machine learning model capable of recognizing spoken languages.
 
-## Project Structure
+## Project Structure   
+
+![image](https://github.com/najwanaamane/Sound-Language-Recognition/assets/86806375/b5f2baa3-dd7c-4293-9cd7-ba04112b2240)
+
 
 ### 1. Data Collection
 
@@ -87,11 +86,7 @@ The project demonstrates a comprehensive methodology for processing audio data a
 - **Author**: Najwa Naamane
 - **Supervisor**: Prof. ElKharroubi Jamal
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgements
-Thank you for considering this project. Your feedback and contributions are welcome.
 
 ---
 
