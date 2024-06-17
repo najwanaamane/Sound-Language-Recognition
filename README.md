@@ -92,7 +92,7 @@ The project demonstrates a comprehensive methodology for processing audio data a
 
 ### Usage Instructions
  **Run Jupyter Notebooks**:
-    - **Preprocessing and Model Training**: Open and run `<your_selected_language> GMM modeling.ipynb`
+    - **Preprocessing and Model Training**: Open and run `<your_selected_language> GMM modeling.ipynb`   
     - **Model Evaluation and Language Prediction**: Open and run `Prediction and Evaluation .ipynb`
 
 For detailed steps and explanations, please refer to the provided documentation in the repository.
