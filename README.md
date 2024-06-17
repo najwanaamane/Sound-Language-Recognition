@@ -91,12 +91,8 @@ The project demonstrates a comprehensive methodology for processing audio data a
 ---
 
 ### Usage Instructions
-1. **Clone the Repository**: `git clone <repository_url>`
-2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Run Jupyter Notebooks**:
-    - **Preprocessing**: Open and run `preprocess.ipynb`
-    - **Model Training**: Open and run `train.ipynb`
-    - **Model Evaluation**: Open and run `evaluate.ipynb`
-    - **Language Prediction**: Open and run `predict.ipynb`
+ **Run Jupyter Notebooks**:
+    - **Preprocessing and Model Training**: Open and run `<selected_language>GMM.ipynb`
+    - **Model Evaluation and Language Prediction**: Open and run `evaluation and prediction.ipynb`
 
 For detailed steps and explanations, please refer to the provided documentation in the repository.
